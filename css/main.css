@@ -328,7 +328,7 @@ a:hover {
 }
 .service  .servicetitle h2{
     text-shadow: 5px 10px rgba(0, 0, 0, .1);
-    font-size: 200%;
+    font-size: 100%;
 }
 .service i {
     color: #01b8dc;
@@ -340,7 +340,7 @@ a:hover {
 }
 .service .customers  h2{
     text-shadow: 5px 20px rgba(0, 0, 0, .1);
-    font-size: 200%;
+    font-size: 1600%;
     padding: 30px 0 20px 0;
 }
 .service .customers p{
@@ -395,7 +395,7 @@ a:hover {
 }
 .contact .locationcontact .row h2{
     width: 50%;
-    font-size: 180%;
+    font-size: 150%;
 }
 .contact .locationcontact .row i{
     width: 10%;
@@ -446,7 +446,7 @@ a:hover {
 .contact .formcontact  label{
     display: block;
     margin-top: 20px;
-    font-size: 130%;
+    font-size: 110%;
 }
 .contact .formcontact input{
     height: 50px;
